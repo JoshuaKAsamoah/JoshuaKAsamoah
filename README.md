@@ -15,16 +15,16 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/blessing-agyei-kyem-b258121a8"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blessing | LinkedIn" ></a>
+<a href="https://www.linkedin.com/in/joshua-kofi-asamoah-1ba4091a2"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blessing | LinkedIn" ></a>
 
 <div>
-<a href="https://www.facebook.com/renack.casera"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Blessing | Facebook"/></a>
+<a href="https://www.facebook.com/share/1BZBcYTCYh/?mibextid=wwXlfr"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Blessing | Facebook"/></a>
 
-<a href="https://twitter.com/KyemAgyei"><img align="left" src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Blessing | Twitter"></a>
+<a href="https://twitter.com/ten_over_10"><img align="left" src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Blessing | Twitter"></a>
 
-<a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
+<a href="https://www.instagram.com/_josh.a_"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
 
-<a href="https://dev.to/blessing988"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
+<a href="https://dev.to/JoshuaKAsamoah"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
 </br>
 </div>
 </br>
@@ -36,7 +36,8 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ***
 ## 🔭 I'm currently working on
 
-- Prediction of Pavement Condition Index (PCI) directly from pavement images
+- Predicting traffic forecasting using DynaFormer
+- Developing an occlusion-aware MCMOT
 
   
 ## 🌱 I'm currently learning
@@ -111,7 +112,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 ***
 
-[![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessing988&show_icons=true&theme=tokyonight)](https://github.com/Blessing988/github-readme-stats)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessing988&show_icons=true&theme=tokyonight)](https://github.com/Blessing988/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing988&theme=gotham)](https://github.com/Blessing988/Blessing988)
 
