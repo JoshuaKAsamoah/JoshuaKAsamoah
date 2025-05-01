@@ -112,9 +112,9 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 ***
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessing988&show_icons=true&theme=tokyonight)](https://github.com/Blessing988/github-readme-stats)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKAsamoah&show_icons=true&theme=tokyonight)](https://github.com/JoshuaKasamoah/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing988&theme=gotham)](https://github.com/Blessing988/Blessing988)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaKAsamoah&theme=gotham)](https://github.com/JoshuaKAsamoah/JoshuaKAsamoah)
 
 <!--
 **JoshuaKAsamoah/JoshuaKAsamoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
